@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend_Development",
+    "img": "https://media.istockphoto.com/id/1224339637/photo/online-shop-website-on-home-office-setup.jpg?b=1&s=170667a&w=0&k=20&c=rLteFUlj28vw_Glj_rhWjsNb2qudMIC3v_-RGjXYY1g=",
+    "description": "Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing."
+  },
+  {
+    "id": 2,
+    "title": "Backend_Development",
+    "img": "https://media.istockphoto.com/id/1088872274/photo/1-back-end-coding-workflow-of-the-web-developing-using-php-language-programming-concept.jpg?b=1&s=170667a&w=0&k=20&c=aKz4HwiuM8VM_707P6MnblL0cIE4aPqUVKGel5hUdy0=",
+    "description": "Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data."
+  },
+  {
+    "id": 3,
+    "title": "App_Development",
+    "img": "https://media.istockphoto.com/id/875430076/photo/unrecognizable-woman-using-an-app-looking-at-statistics.jpg?b=1&s=170667a&w=0&k=20&c=8mrbzruQauWVdxPGDJyy3KirYTrZOqnSuur7FGMeTKo=",
+    "description": "Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data."
+  },
+  {
+    "id": 4,
+    "title": "Full_Stack_Development",
+    "img": "https://media.istockphoto.com/id/1134696790/photo/web-development.jpg?b=1&s=170667a&w=0&k=20&c=k2OmJjQj-8jtyt45UPzJ9_9c7M2L2WrkTnnzy9kijds=",
+    "description": "Full stack development: It refers to the development of both front end(client side) and back end(server side) portions of web application.Full stack web Developers: Full stack web developers have the ability to design complete web applications and websites. They work on the frontend, backend, database and debugging of web applications or websites."
+  },
+  {
+    "id": 5,
+    "title": "Dev_Ops Development",
+    "img": "https://media.istockphoto.com/id/1339667588/photo/devops-concept.jpg?b=1&s=170667a&w=0&k=20&c=Gx1L0v5kGFyosLZTrWMWlXF3IIE3JPvqy8BdHpF-pyI=",
+    "description": "DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams. It emphasizes team empowerment, cross-team communication and collaboration, and technology automation."
+  },
+  {
+    "id": 6,
+    "title": "Software_Development",
+    "img": "https://media.istockphoto.com/id/1452145309/photo/businessman-clicks-v-model-vee-information-systems-development-model.jpg?b=1&s=170667a&w=0&k=20&c=LVrvW7elonRdMHBmk5qt7wPqpUitIUSjlFtf3o3FAuo=",
+    "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software. Software itself is the set of instructions or programs that tell a computer what to do. It is independent of hardware and makes computers programmable."
+  },
+  {
+    "id": 7,
+    "title": "SEO",
+    "img": "https://media.istockphoto.com/id/1385957068/photo/seo-search-engine-optimization-marketing-ranking-traffic-website-internet-business-technology.jpg?b=1&s=170667a&w=0&k=20&c=GrsNwQi0AU61xQmsIDwHY6ffCH0C3_YbPtrS3edUzlw=",
+    "description": "Search engine optimization (SEO) is the art and science of getting pages to rank higher in search engines such as Google. Because search is one of the main ways in which people discover content online, ranking higher in search engines can lead to an increase in traffic to a website"
+  },
+  {
+    "id": 8,
+    "title": "Digital_Marketing",
+    "img": "https://media.istockphoto.com/id/1385970223/photo/great-idea-of-a-marketing-strategy-plan-at-a-creative-office.jpg?b=1&s=170667a&w=0&k=20&c=tb2d0EOX_j10LHI_1znMGoSI_55FBSwP-Mo68GMzgfY=",
+    "description": "Digital marketing, also called online marketing, refers to all marketing efforts that occur on the internet. Businesses leverage digital channels such as search engines, social media, email, and other websites to connect with current and prospective customers. This also includes communication through text or multimedia messages."
+  },
+  {
+    "id": 9,
+    "title": "Graphic_Designing",
+    "img": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
+  }
+]
